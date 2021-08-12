@@ -1,0 +1,14 @@
+pip install streamlit
+
+
+
+documentación de altair
+https://altair-viz.github.io/
+
+
+
+documentación plotly
+https://plotly.com/python/
+
+
+
